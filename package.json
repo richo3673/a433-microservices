@@ -16,7 +16,7 @@
     "body-parser": "~1.17.1",
     "debug": "~2.6.3",
     "express": "~4.15.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^3.0.0",
